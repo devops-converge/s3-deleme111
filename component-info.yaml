@@ -11,5 +11,5 @@ metadata:
   description: An example of a S3 Creation. # Change Description accordingly
 spec:
   type: service
-  owner: user:guest
+  owner: user:citicruiser
   lifecycle: experimental
